@@ -124,3 +124,41 @@ header{
     font-size: 38px;
     margin-bottom: 0;
 }
+
+/* Get In Touch */
+.get-in-touch {
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: 50px auto;
+    gap: 50px; 
+}
+
+.get-in-touch-title {
+    font-size: 97px; 
+    font-weight: 700; 
+    color: #000000;
+    margin-top: 400;
+    max-width: 500px; 
+}
+
+.get-in-touch-form label {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 19px;
+    display: block; 
+}
+
+.get-in-touch-form input[type="text"] ,
+.get-in-touch-form input[type="email"] ,
+.get-in-touch-form textarea {
+    width: 400px;
+    padding: 20px 32px; 
+    border: 1px solid #ccc;
+    border-radius: 10px; 
+    font-size: 20px;
+}
+
+.get-in-touch-form input[type="button"] {
+    width: 100%;
+}
