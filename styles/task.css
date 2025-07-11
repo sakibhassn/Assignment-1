@@ -32,3 +32,26 @@ nav{
     font-size: 34px;
     color: #4E47FF;
 }
+
+/* Banner Design */
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 0px;
+}
+
+.banner-content{
+    max-width: 905px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header{
+    background-image: url('../Assets/Hero-bg.png');
+    text-align: center;
+}
+
+.gap-top{
+    margin-top: 37px;
+    margin-bottom: 152px;
+}
