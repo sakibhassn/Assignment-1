@@ -87,3 +87,40 @@ header{
     max-width: 517px;
     margin-right: px;
 }
+
+/* Users section */
+.user-content{
+    background-color: rgba(78, 71, 255, 0.1);
+    max-width: 1258px;
+    margin:50px auto ;
+    padding: 50px 60px;
+    border-radius: 24px;
+    text-align: center;
+
+}
+
+.users-status{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item-title{
+    color: #4E47FF;
+    font-weight: 700;
+    font-size: 80px;
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+.item-description{
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.user-title{
+    font-weight: 700;
+    font-size: 38px;
+    margin-bottom: 0;
+}
