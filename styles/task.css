@@ -1,0 +1,34 @@
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+body{
+    background-color:  hsl(226, 100%, 97%);
+}
+
+/* Button styles */
+.btn-primary{
+    font-weight: 700;
+    font-size: 16px;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    padding: 12px 36px;
+    border: none;
+    border-radius: 10px;
+}
+
+/* Header styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 150px;
+}
+
+.nav-title{
+    font-weight: 900;
+    font-size: 34px;
+    color: #4E47FF;
+}
