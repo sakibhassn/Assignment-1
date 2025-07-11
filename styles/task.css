@@ -55,3 +55,35 @@ header{
     margin-top: 37px;
     margin-bottom: 152px;
 }
+
+/* Get In Action */
+.action{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 116px 159px 116px 141px;
+}
+
+.action-title{
+    font-weight: 700;
+    font-size: 42px;
+    margin-bottom: 0;
+}
+
+.action-description{
+    font-weight: 400;
+    font-size: 24px;
+    color: rgba(37, 36, 50, 0.5);
+    margin-top: 10px;
+}
+
+.action-image{
+    height: 328px;
+    width: 403px;
+    border-radius: 48px;
+}
+
+.action-left{
+    max-width: 517px;
+    margin-right: px;
+}
